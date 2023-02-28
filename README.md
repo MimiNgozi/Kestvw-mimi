@@ -10,7 +10,7 @@ $Gname = Read-Host "Enter your Groupname"
 New-LocalGroup $Gname
 
 ###  Adding to groups
-Add-LocalGroupMember -Group Users -Member ninam
+Add-LocalGroupMember -Group Sales -Member Xasi
 Senior management==
 Masi , Mason Young
 Grey , Gary Cole
