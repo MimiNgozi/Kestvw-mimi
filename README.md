@@ -10,27 +10,27 @@ $Gname = Read-Host "Enter your Groupname"
 New-LocalGroup $Gname
 
 ###  Adding to groups
-Add-LocalGroupMember -Group Sales -Member Xasi
-Senior management==
-Masi , Mason Young
-Grey , Gary Cole
+Add-LocalGroupMember -Group Users  -Member ninam
+* Senior management==
+   * Masi , Mason Young
+   * Grey , Gary Cole
 
-Marketing==
+* Marketing==
 
-Sussi , Susan Connor
-Rickki , Rick  Novak
-Lilli , Liam peter
-Willi- willam long 
+    * Sussi , Susan Connor
+    * Rickki , Rick  Novak
+    * Lilli , Liam Peter
+    * Willi- willam long 
 
-Sales ==
-Xasi , Xabi Alsono
-Oliva , Olivia Perry
-Ronni, Ronald Barr
+* Sales ==
+    * Xasi , Xabi Alsono
+    * Oliva , Olivia Perry
+    * Ronni, Ronald Barr
 
 when the 4 folders are made
 for management 
 * Management Properites > Security (tab) > Edit > Add ( all the groups ) 
 allow full contol for the mangnement team then for the other teams deny 
-  * Then do the rest for the rest of the groups
+hen do the rest for the rest of the groups
 
 
