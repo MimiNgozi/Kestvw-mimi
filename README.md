@@ -31,6 +31,7 @@ when the 4 folders are made
 for management 
 * Management Properites > Security (tab) > Edit > Add ( all the groups ) 
 allow full contol for the mangnement team then for the other teams deny 
-hen do the rest for the rest of the groups
+then do the rest for the rest of the groups
+
 
 
